@@ -3,7 +3,7 @@
 
 ---
 ## Level Breakdown 🎲
-This build focuses on [Fighter](https://www.dndbeyond.com) leveling, so there is no multiclassing breakdown, only a single class.
+This build focuses on [Fighter](https://dnd5e.wikidot.com/fighter) leveling, so there is no multiclassing breakdown, only a single class.
 
 ---
 ## Race 👽
@@ -27,7 +27,7 @@ The table below shows the Ability Scores for our build (Race modifiers included)
 ---
 
 ## Equipment 💣
-Make sure to use a [Hand Crossbow](https://www.dndbeyond.com). This weapon gives us an additional attack as a bonus action and allows the [Crossbow Expert feat](https://dnd5e.wikidot.com/feat:crossbow-expert) to function.
+Make sure to use a **Hand Crossbow**. This weapon gives us an additional attack as a bonus action and allows the [Crossbow Expert feat](https://dnd5e.wikidot.com/feat:crossbow-expert) to function.
 
 You can take any equipment for defense, but I recommend the following:
 
@@ -44,7 +44,7 @@ Alternatively, you can choose the [Battle Master](https://dnd5e.wikidot.com/figh
 
 The core of this build is **4th level**. At this level, the [Sharpshooter feat](https://dnd5e.wikidot.com/feat:sharpshooter) is a must-have. This provides powerful attacks that deal massive damage if they hit.
 
-At **5th level**, we gain an Extra Attack, and the build is fully online. From there, you can progress as you wish, but stay within the [Fighter class](https://www.dndbeyond.com).
+At **5th level**, we gain an Extra Attack, and the build is fully online. From there, you can progress as you wish, but stay within the [Fighter class](https://dnd5e.wikidot.com/fighter).
 
 ---
 
@@ -54,7 +54,7 @@ On your turn at 5th level, use your regular action to attack with your crossbow.
 Make sure to use the [Sharpshooter feat](https://dnd5e.wikidot.com/feat:sharpshooter) for each attack to maximize damage.
 
 If every shot hits, the damage for one turn will be:
-**3d6 + 9 (DEX) + 30 (Sharpshooter)** *piercing damage*.
+**`3d6 + 9 (DEX) + 30 (Sharpshooter)`** *piercing damage*.
 
 ---
 
